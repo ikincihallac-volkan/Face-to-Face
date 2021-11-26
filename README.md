@@ -1,4 +1,3 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/427c0f5266914579986c296f1d20b208)](https://app.codacy.com/gh/ikincihallac-volkan/Face-to-Face?utm_source=github.com&utm_medium=referral&utm_content=ikincihallac-volkan/Face-to-Face&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4eac2b56091f41e0b98fd858c7563af1)](https://www.codacy.com/gh/ikincihallac-volkan/Face-to-Face/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ikincihallac-volkan/Face-to-Face&amp;utm_campaign=Badge_Grade)
 # ikincihallac-Volkan
 Created with CodeSandbox
